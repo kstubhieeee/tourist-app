@@ -65,14 +65,14 @@ export function Header() {
       }`}
     >
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <div className="flex h-16 items-center justify-between lg:h-20">
+        <div className="flex h-20 items-center justify-between lg:h-24">
           <a href="/" className="flex items-center">
             <Image
               src="/logo.png"
               alt="Aarambh Escapes"
-              width={200}
-              height={70}
-              className="h-14 w-auto lg:h-16"
+              width={240}
+              height={80}
+              className="h-16 w-auto lg:h-20"
               priority
             />
           </a>
